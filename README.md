@@ -1,2 +1,2 @@
 # schittor.github.io
-trying githum page
+trying github page
