@@ -5,4 +5,4 @@ First one is the programs to help build YouTube subtitles i developed for VSK Po
 
 [yt_subtitles](schittor.github.io/yt_subtitles)
 
-## More to come.
+## More programs to come.
